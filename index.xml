@@ -32,5 +32,13 @@
 </description>
     </item>
     
+    <item>
+      <title>Warehouse Reshuffling</title>
+      <link>https://bricechivu.github.io/project/my-project-name/</link>
+      <pubDate>Thu, 01 Jan 1970 08:03:40 +0730</pubDate>
+      <guid>https://bricechivu.github.io/project/my-project-name/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
