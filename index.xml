@@ -33,10 +33,18 @@
     </item>
     
     <item>
-      <title>Warehouse Reshuffling</title>
-      <link>https://bricechivu.github.io/project/my-project-name/</link>
+      <title>Products Damage claims</title>
+      <link>https://bricechivu.github.io/project/damage-claims/</link>
       <pubDate>Thu, 01 Jan 1970 08:03:40 +0730</pubDate>
-      <guid>https://bricechivu.github.io/project/my-project-name/</guid>
+      <guid>https://bricechivu.github.io/project/damage-claims/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warehouse Reshuffling</title>
+      <link>https://bricechivu.github.io/project/warehouse-reshuffling/</link>
+      <pubDate>Thu, 01 Jan 1970 08:03:40 +0730</pubDate>
+      <guid>https://bricechivu.github.io/project/warehouse-reshuffling/</guid>
       <description></description>
     </item>
     
